@@ -112,3 +112,4 @@ export default withTracker(() => {
     user: Meteor.user()
   };
 })(App);
+
