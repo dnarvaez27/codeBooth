@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { Meteor } from 'meteor/meteor';
 import { withTracker } from 'meteor/react-meteor-data';
 import Auth from './Auth';
-import '../styles/App.css';
+import './App.css';
 import Profile from './Profile';
 import Editor from './Editor';
 import Loader from './Loader';
